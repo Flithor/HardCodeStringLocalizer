@@ -13,7 +13,6 @@ And i'm lazy, so the comment in this project are Chinese, translate it by yourse
   * Different projects use different localization methods, please modify the replacement rules by yourself
 * Quickly locate code in Visual Studio
 * After selecting the target resx resource file, you only need to enter a localization key name to write it into the resource file, and replace the original string with the localization code
-* as long as you can parse the code in a specific file
 
 ## How should I use this tool to localize my project?
 This tool is easy to customize, in simple terms you just need to inherit and implement [`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs) and [` HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs) These two classes are enough, other works  can be done by framework themselves.  
