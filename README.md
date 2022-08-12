@@ -12,7 +12,6 @@
   * 不同项目使用的本地化方法不同，请自行修改替换规则
 * 可快速在Visual Studio中定位代码
 * 选择目标resx资源文件后，只需要输入一个本地化键名称即可将其写入资源文件，并将原字符串替换为本地化代码
-* 只要你可以解析特定文件中的代码
 
 ## 我应该如何使用此工具本地化我的项目？
 这个工具很容易实现自定义，简单来说你只需要继承并实现[`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs)和[`HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs)这2个类就行了,其他的代码框架可以自己搞定  
