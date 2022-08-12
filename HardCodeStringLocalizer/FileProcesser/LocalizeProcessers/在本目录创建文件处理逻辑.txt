@@ -1,0 +1,1 @@
+﻿程序运行时将在命名空间"HardCodeStringLocalizer.FileProcesser.Processers"中寻找可处理文件
