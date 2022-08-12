@@ -1,8 +1,8 @@
 # Hardcoded string localizer
-A tool that relies on Visual Studio to extract and replace hard-coded strings in project files for quick localization.
+A tool that relies on Visual Studio to extract and replace hard-coded strings in project files for quick localization.  
 [中文版点这](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/README.md)
 
-Localization of `.cs` files and `.xaml` files is currently supported
+Localization of `.cs` files and `.xaml` files is currently supported.
 
 ## Attention!
 This tool does not work out-of-the-box, you must modify the code to implement localized text replacement for your own projects.
@@ -15,9 +15,9 @@ This tool does not work out-of-the-box, you must modify the code to implement lo
 * as long as you can parse the code in a specific file
 
 ## How should I use this tool to localize my project?
-This tool is easy to customize, in simple terms you just need to inherit and implement [`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs) and [` HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs) These two classes are enough, other code frameworks can be done by themselves
+This tool is easy to customize, in simple terms you just need to inherit and implement [`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs) and [` HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs) These two classes are enough, other code frameworks can be done by themselves.  
 read the document
-Comments at [CSharpFileLocalizer.cs](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/LocalizeProcessers/CSharpFileLocalizer.cs) to learn how to implement
+Comments at [CSharpFileLocalizer.cs](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/LocalizeProcessers/CSharpFileLocalizer.cs) to learn how to implement.
 
 ## Obligations to use this open source project:
 * Please star this item.
