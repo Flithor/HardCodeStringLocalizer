@@ -15,7 +15,7 @@ This tool does not work out-of-the-box, you must modify the code to implement lo
 * as long as you can parse the code in a specific file
 
 ## How should I use this tool to localize my project?
-This tool is easy to customize, in simple terms you just need to inherit and implement [`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs) and [` HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs) These two classes are enough, other code frameworks can be done by themselves.  
+This tool is easy to customize, in simple terms you just need to inherit and implement [`FileLocalizerBase`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/FileLocalizerBase.cs) and [` HardCodeStringInfo`](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/HardCodeStringInfo.cs) These two classes are enough, other works  can be done by framework themselves.  
 read the document
 Comments at [CSharpFileLocalizer.cs](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/LocalizeProcessers/CSharpFileLocalizer.cs) to learn how to implement.
 
