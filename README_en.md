@@ -20,7 +20,7 @@ read the document
 Comments at [CSharpFileLocalizer.cs](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/HardCodeStringLocalizer/FileProcesser/LocalizeProcessers/CSharpFileLocalizer.cs) to learn how to implement.
 
 ## Obligations to use this open source project:
-* Please star this item.
-* Please add a navigable to this project (https://github.com/Flithor/HardCodeStringLocalizer) anywhere in your project (it can be a license file, it can be an acknowledgement interface, or any accessible location of the software) Identifier (hyperlink or copyable string).
+* Please star this project.
+* Please add a mark (it can be a hyperlink or copyable string) can navigate to this project (https://github.com/Flithor/HardCodeStringLocalizer) anywhere in your project (it can be a license file, acknowledgement, or any accessible place in your software).
 
 Welcome PR
