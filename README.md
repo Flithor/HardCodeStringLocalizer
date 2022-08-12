@@ -1,4 +1,4 @@
-# HardCodeStringLocalizer
+# 硬编码字符串本地化工具
 一个依托Visual Studio来提取和替换项目文件中硬编码字符串来快速实现本地化的工具  
 [English ReadMe here](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/README_en.md) 
 
