@@ -1,4 +1,4 @@
-# hardcoded string localizer
+# Hardcoded string localizer
 A tool that relies on Visual Studio to extract and replace hard-coded strings in project files for quick localization.
 [中文版点这](https://github.com/Flithor/HardCodeStringLocalizer/blob/master/README.md)
 
