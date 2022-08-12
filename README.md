@@ -21,6 +21,6 @@
 
 ## 使用本开源项目的义务：
 * 请星标该项目。
-* 请在你的项目中任意位置(可以是许可文件,可以是鸣谢界面,也可以是软件的任意可访问位置)添加可导航至本项目(https://github.com/Flithor/HardCodeStringLocalizer)的标识(超链接或可复制的字符串)。
+* 请在你的项目中任意位置(可以是许可文件,可以是鸣谢界面,也可以是软件的任意可访问位置)添加可导航至本项目(https://github.com/Flithor/HardCodeStringLocalizer) 的标识(超链接或可复制的字符串)。
 
 欢迎PR补充功能
