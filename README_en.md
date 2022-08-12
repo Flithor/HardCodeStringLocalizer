@@ -9,7 +9,7 @@ This tool does not work out-of-the-box, you must modify the code to implement lo
 
 ## Features provided by this project
 * Get the text that needs to be localized in the file through the rules defined in the code
-** Different projects use different localization methods, please modify the replacement rules by yourself
+  * Different projects use different localization methods, please modify the replacement rules by yourself
 * Quickly locate code in Visual Studio
 * After selecting the target resx resource file, you only need to enter a localization key name to write it into the resource file, and replace the original string with the localization code
 * as long as you can parse the code in a specific file
