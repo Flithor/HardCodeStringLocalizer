@@ -5,7 +5,8 @@ A tool that relies on Visual Studio to extract and replace hard-coded strings in
 Localization of `.cs` files and `.xaml` files is currently supported.
 
 ## Attention!
-This tool does not work out-of-the-box, you must modify the code to implement localized text replacement for your own projects.
+This tool does not work out-of-the-box, you must modify the code to implement localized text replacement for your own projects.  
+And i'm lazy, so the comment in this project are Chinese, translate it by yourself please. ;p
 
 ## Features provided by this project
 * Get the text that needs to be localized in the file through the rules defined in the code
